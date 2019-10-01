@@ -1,5 +1,6 @@
-turtle      # Turtle is part of the Python Standard Library
-math        # Math is part of the Python Standard Library
+Turtle      # Turtle is part of the Python Standard Library
+Math        # Math is part of the Python Standard Library
+Random      # Random is part of the Python Standard Library
 
 For Graphing you will need to dowload Processing follow the steps below:
     1. Go to https://processing.org/download
