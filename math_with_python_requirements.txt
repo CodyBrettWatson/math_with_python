@@ -1,4 +1,20 @@
-turtle
-math
+turtle      # Turtle is part of the Python Standard Library
+math        # Math is part of the Python Standard Library
+
+For Graphing you will need to dowload Processing follow the steps below:
+    1. Go to https://processing.org/download
+    2. Choose your operating system
+    3. Download the installer
+    4. Move Processing icon (look like "l3" with a net behind)
+    5. Open Processing
+    6. In upper right corner click the drop down that says Java
+    7. Click "Add Mode"
+    8. Click "Python Mode for Processing 3"
+    8.1. If you prefer using R the choose "R for Processing"
+    9. In the lower right corner click install
+    10. Once installation is done close Contribution Manager window
+    11. In upper right corner click the drop down that says Java
+    12. Click Python and your ready
+
 
 More will follow along with versions
